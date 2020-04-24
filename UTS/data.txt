@@ -1,0 +1,17 @@
+<table width=500 align=center border=1>
+<h3 align='center'>Data Pemantauan Covid19 wilayah DKI Jakarta <br>
+      Per 24-04-2020 | 11:28:17AM <br>
+      Nama : Deny Setiawan | NIM : 2016140542</h3>
+      <tr>
+        <th>Positif</th>
+        <th>Dirawat</th>
+        <th>Sembuh</th>
+        <th>Meninggal</th>
+      </tr>
+      <tr>
+        <td>2902</td>
+        <td>1769</td>
+        <td>206</td>
+        <td>257</td>
+      </tr>
+</table>
